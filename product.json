@@ -54,6 +54,11 @@
       "name": "susu murni nasional",
       "price": "20.000",
       "id": 14
+    },
+    {
+      "name": "cappucino",
+      "price": "20.000",
+      "id": 15
     }
   ]
 }
