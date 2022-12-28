@@ -47,7 +47,7 @@
     },
     {
       "name": "kapal api",
-      "price": "IDR 20.000",
+      "price": "21.000",
       "id": 13
     },
     {
@@ -59,6 +59,11 @@
       "name": "cappucino",
       "price": "20.000",
       "id": 15
+    },
+    {
+      "name": "Teh Tarik",
+      "price": "21.000",
+      "id": 16
     }
   ]
 }

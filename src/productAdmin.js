@@ -1,4 +1,4 @@
-// Task 5 Menambahkan toggle pada Navbar (edit and add data)
+// Task 5 Menambahkan toggle pada Navbar (cek promo)
 const cekPromo = document.getElementById('cek-promo');
 const promo = document.getElementById('promo');
 
@@ -70,7 +70,7 @@ postList.addEventListener('click',(e)=>{
   let id = e.target.parentElement.dataset.id
   
   
-  // Task 4 delete data 
+  // Task 4 Menghapus data / element
   if (delButton) {
    fetch(`${url}/${id}`,{
        method:'DELETE',
